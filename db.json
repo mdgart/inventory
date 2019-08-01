@@ -1,162 +1,27 @@
 {
   "inventory": [
         {
-            "invid": "K717-0565-7L-EGR",
+            "invid": "8900-AN11-ANG-ZV1",
             "items": [
                 {
-                    "upccode": "613058170801",
-                    "sizecode": "2XL",
+                    "upccode": "192654658444",
+                    "sizecode": "40",
                     "inventory_available": 61
                 },
                 {
-                    "upccode": "613058170788",
-                    "sizecode": "L",
+                    "upccode": "192654658451",
+                    "sizecode": "44",
                     "inventory_available": 97
                 },
                 {
-                    "upccode": "613058170771",
-                    "sizecode": "M",
+                    "upccode": "192654658468",
+                    "sizecode": "48",
                     "inventory_available": 381
                 },
                 {
-                    "upccode": "613058170764",
-                    "sizecode": "S",
+                    "upccode": "192654658475",
+                    "sizecode": "52",
                     "inventory_available": 87
-                },
-                {
-                    "upccode": "613058170795",
-                    "sizecode": "XL",
-                    "inventory_available": 326
-                },
-                {
-                    "upccode": "192654540619",
-                    "sizecode": "1XT",
-                    "inventory_available": 498
-                },
-                {
-                    "upccode": "192654540565",
-                    "sizecode": "2XB",
-                    "inventory_available": 377
-                },
-                {
-                    "upccode": "192654540626",
-                    "sizecode": "2XT",
-                    "inventory_available": 131
-                },
-                {
-                    "upccode": "192654540572",
-                    "sizecode": "3XB",
-                    "inventory_available": 39
-                },
-                {
-                    "upccode": "192654540633",
-                    "sizecode": "3XT",
-                    "inventory_available": 463
-                },
-                {
-                    "upccode": "192654540589",
-                    "sizecode": "4XB",
-                    "inventory_available": 380
-                },
-                {
-                    "upccode": "192654540640",
-                    "sizecode": "4XT",
-                    "inventory_available": 322
-                },
-                {
-                    "upccode": "192654540596",
-                    "sizecode": "5XB",
-                    "inventory_available": 291
-                },
-                {
-                    "upccode": "192654540657",
-                    "sizecode": "5XT",
-                    "inventory_available": 166
-                },
-                {
-                    "upccode": "192654540602",
-                    "sizecode": "6XB",
-                    "inventory_available": 385
-                }
-            ]
-        },
-        {
-            "invid": "QGXC-BLK-66-EAB",
-            "items": [
-                {
-                    "upccode": "613058170801",
-                    "sizecode": "2XL",
-                    "inventory_available": 262
-                },
-                {
-                    "upccode": "613058170788",
-                    "sizecode": "L",
-                    "inventory_available": 413
-                },
-                {
-                    "upccode": "613058170771",
-                    "sizecode": "M",
-                    "inventory_available": 173
-                },
-                {
-                    "upccode": "613058170764",
-                    "sizecode": "S",
-                    "inventory_available": 83
-                },
-                {
-                    "upccode": "613058170795",
-                    "sizecode": "XL",
-                    "inventory_available": 201
-                },
-                {
-                    "upccode": "192654540619",
-                    "sizecode": "1XT",
-                    "inventory_available": 293
-                },
-                {
-                    "upccode": "192654540565",
-                    "sizecode": "2XB",
-                    "inventory_available": 315
-                },
-                {
-                    "upccode": "192654540626",
-                    "sizecode": "2XT",
-                    "inventory_available": 460
-                },
-                {
-                    "upccode": "192654540572",
-                    "sizecode": "3XB",
-                    "inventory_available": 210
-                },
-                {
-                    "upccode": "192654540633",
-                    "sizecode": "3XT",
-                    "inventory_available": 225
-                },
-                {
-                    "upccode": "192654540589",
-                    "sizecode": "4XB",
-                    "inventory_available": 277
-                },
-                {
-                    "upccode": "192654540640",
-                    "sizecode": "4XT",
-                    "inventory_available": 236
-                },
-                {
-                    "upccode": "192654540596",
-                    "sizecode": "5XB",
-                    "inventory_available": 116
-                },
-                {
-                    "upccode": "192654540657",
-                    "sizecode": "5XT",
-                    "inventory_available": 282
-                },
-                {
-                    "upccode": "192654540602",
-                    "sizecode": "6XB",
-                    "inventory_available": 427
                 }
             ]
         }
